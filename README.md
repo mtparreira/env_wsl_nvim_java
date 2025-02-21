@@ -5,7 +5,9 @@ Instale o Arch Linux através da Microsoft Store para WSL.
 ## Mapa de Caracteres
 
 Instale no Windows uma Nerdfont de sua escolha em [Nerdfonts](https://www.nerdfonts.com).
+
 Configure para uso no Terminal.
+
 Sugestão de fonte: **RobotoMono Nerd Font** ou **JetBrainsMono Nerd Font**.
 
 ## Pacotes
@@ -124,10 +126,10 @@ nvim .
 
 ### Debub
 
-<F9> breakpoint
-<F5> start debug
+- <F9> breakpoint
+
+- <F5> start debug
 
 @mtparreira
+
 Divirta-se :)
-
-
