@@ -103,7 +103,7 @@ Baixe o pacote JAVA de sua preferência, MAVEN e o repositório deste projeto na
 ```sh
 cd $HOME/downloads
 
-git clone <repositório-do-projeto>
+git clone [<repositório-do-projeto>](https://github.com/mtparreira/env_wsl_nvim_java.git)
 ```
 
 ```sh
