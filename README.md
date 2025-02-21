@@ -98,14 +98,6 @@ Baixe o pacote JAVA de sua preferência, MAVEN e o repositório deste projeto na
 
 - [Apache Maven](https://maven.apache.org/download.cgi)
 
-### PROJETO
-
-```sh
-cd $HOME/downloads
-
-git clone [<repositório-do-projeto>](https://github.com/mtparreira/env_wsl_nvim_java.git)
-```
-
 ```sh
 cd $HOME/packages
 
@@ -113,3 +105,29 @@ tar -xzvf $HOME/downloads/apache-maven-3.9.9-bin.tar.gz
 
 tar -xzvf $HOME/downloads/openjdk-23.0.2_linux-64_bin.tar.gz
 ```
+
+### Instalação do Ambiente
+
+```sh
+cd $HOME/downloads
+
+git clone https://github.com/mtparreira/env_wsl_nvim_java.git
+
+cd env_wsl_nvim_java
+
+sh install.sh
+
+cd $HOME/workspace/demo
+
+nvim .
+```
+
+### Debub
+
+<F9> breakpoint
+<F5> start debug
+
+@mtparreira
+Divirta-se :)
+
+
