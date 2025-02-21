@@ -34,6 +34,7 @@ ssh-keygen -t ed25519 -C <seu-email>
 
 ```sh
 git config --global user.name "<seu-nome>"
+
 git config --global user.email <seu-mail>
 ```
 
@@ -41,7 +42,9 @@ git config --global user.email <seu-mail>
 
 ```sh
 mkdir $HOME/packages
+
 mkdir $HOME/downloads
+
 mkdir $HOME/workspace
 ```
 
@@ -67,10 +70,13 @@ Reinicie o terminal para finalizar as configurações do ZSH.
 
 ```sh
 cd $HOME
+
 git clone --depth 1 https://github.com/AstroNvim/template ~/.config/nvim
+
 rm -rf ~/.config/nvim/.git
 
 cd $HOME/.config/nvim
+
 nvim .
 ```
 
@@ -124,12 +130,12 @@ cd $HOME/workspace/demo
 nvim .
 ```
 
-### Debub
+### Debug
 
-- <F9> breakpoint
+- F9 breakpoint
 
-- <F5> start debug
+- F5 start debug
 
-@mtparreira
+##### @mtparreira
 
 Divirta-se :)
