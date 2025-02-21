@@ -1,5 +1,3 @@
-# README
-
 ## Sistema Operacional
 
 Instale o Arch Linux através da Microsoft Store para WSL.
@@ -92,9 +90,9 @@ Baixe o pacote JAVA de sua preferência, MAVEN e o repositório deste projeto na
 
 ### JAVA
 
-- [OpenJDK](https://openjdk.org)
 - [Oracle](https://www.oracle.com)
 - [GraalVM](https://www.graalvm.org)
+- [OpenJDK](https://openjdk.org)
 
 ### MAVEN
 
@@ -103,6 +101,8 @@ Baixe o pacote JAVA de sua preferência, MAVEN e o repositório deste projeto na
 ### PROJETO
 
 ```sh
+cd $HOME/downloads
+
 git clone <repositório-do-projeto>
 ```
 
@@ -111,5 +111,5 @@ cd $HOME/packages
 
 tar -xzvf $HOME/downloads/apache-maven-3.9.9-bin.tar.gz
 
-tar -xzvf $HOME/downloads/jdk-21_linux-x64_bin.tar.gz
+tar -xzvf $HOME/downloads/openjdk-23.0.2_linux-64_bin.tar.gz
 ```
