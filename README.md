@@ -124,16 +124,21 @@ git clone https://github.com/mtparreira/env_wsl_nvim_java.git
 cd env_wsl_nvim_java
 
 sh install.sh
-
-cd $HOME/workspace/demo
-
-nvim .
 ```
+
+Reinicie o terminal para finalizar as configurações do ZSH.
 
 ### Debug
 
 ```sh
-tar -xzvf $HOME/downloads/arquivos/demo.tar.gz $HOME/workspace/
+cd $HOME/downloads
+
+tar -xzvf $HOME/downloads/env_wsl_nvim_java/demo.tar.gz $HOME/workspace/
+
+cd demo
+
+nvim .
+```
 
 - F9 breakpoint
 
@@ -142,4 +147,3 @@ tar -xzvf $HOME/downloads/arquivos/demo.tar.gz $HOME/workspace/
 ##### @mtparreira
 
 Divirta-se :)
-```
