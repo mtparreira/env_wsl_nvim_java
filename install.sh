@@ -9,3 +9,5 @@ cp nvim/lua/plugins/conform.lua $HOME/.config/nvim/lua/plugins/.
 cp nvim/lua/plugins/java.lua $HOME/.config/nvim/lua/plugins/.
 cp nvim/lua/plugins/kanagawa.lua $HOME/.config/nvim/lua/plugins/.
 cp nvim/lua/plugins/lualine.lua $HOME/.config/nvim/lua/plugins/.
+cp .zshrc $HOME/.
+cp .zshenv $HOME/.
