@@ -132,6 +132,9 @@ nvim .
 
 ### Debug
 
+```sh
+tar -xzvf $HOME/downloads/arquivos/demo.tar.gz $HOME/workspace/
+
 - F9 breakpoint
 
 - F5 start debug
@@ -139,3 +142,4 @@ nvim .
 ##### @mtparreira
 
 Divirta-se :)
+```
