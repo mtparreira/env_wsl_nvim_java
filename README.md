@@ -138,6 +138,10 @@ cd demo
 nvim .
 ```
 
+A primeira execução irá carregar as dependências.
+
+Feche a IDE e abra novamente para habilitar o DAP.
+
 - F9 breakpoint
 
 - F5 start debug
