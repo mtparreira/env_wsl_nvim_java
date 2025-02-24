@@ -62,8 +62,6 @@ git clone --depth=1 https://github.com/romkatv/powerlevel10k.git $ZSH_CUSTOM/the
 sudo pacman -S powerline powerline-fonts
 ```
 
-Reinicie o terminal para finalizar as configurações do ZSH.
-
 ## ASTRONVIM
 
 [Site Oficial](https://astronvim.com)
@@ -126,7 +124,7 @@ cd env_wsl_nvim_java
 sh install.sh
 ```
 
-Reinicie o terminal para finalizar as configurações do ZSH.
+Reinicie o terminal para finalizar as configurações do ZSH e variáveis de ambiente.
 
 ### Debug
 
