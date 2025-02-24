@@ -98,7 +98,7 @@ Baixe o pacote JAVA de sua preferência, MAVEN e o repositório deste projeto na
 
 - [Oracle](https://www.oracle.com)
 - [GraalVM](https://www.graalvm.org)
-- [OpenJDK](https://openjdk.org)
+- [OpenJDK](https://openjdk.org) (usaremos este)
 
 ### MAVEN
 
