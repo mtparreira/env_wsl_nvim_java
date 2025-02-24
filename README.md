@@ -129,9 +129,9 @@ Reinicie o terminal para finalizar as configurações do ZSH e variáveis de amb
 ### Debug
 
 ```sh
-cd $HOME/downloads
+cd $HOME/workspace
 
-tar -xzvf $HOME/downloads/env_wsl_nvim_java/demo.tar.gz $HOME/workspace/
+tar -xzvf ../downloads/env_wsl_nvim_java/demo.tar.gz
 
 cd demo
 
