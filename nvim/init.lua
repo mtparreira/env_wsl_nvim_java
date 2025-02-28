@@ -20,6 +20,7 @@ require "polish"
 
 -- @mtparreira
 require "options"
+require "lazy_setup"
 require "java_setup"
 require "lualine_setup"
 require "kanagawa_setup"

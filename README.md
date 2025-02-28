@@ -88,6 +88,8 @@ Atualize o ambiente:
 
 ```sh
 :AstroUpdate
+
+:Lazy update
 ```
 
 ## DOWNLOADS
