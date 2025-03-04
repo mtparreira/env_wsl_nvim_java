@@ -24,6 +24,16 @@ sudo pacman -S zsh unzip npm cargo ripgrep lazygit neovim
 sudo pacman -S docker docker-compose
 ```
 
+## DOCKER
+
+```sh
+sudo usermod -aG docker $USER
+
+su - $USER
+
+sudo systemctl start docker
+```
+
 ## SSH
 
 ```sh
