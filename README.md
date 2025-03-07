@@ -100,6 +100,8 @@ Atualize o ambiente:
 :AstroUpdate
 
 :Lazy update
+
+:TSInstall xml
 ```
 
 ## DOWNLOADS
