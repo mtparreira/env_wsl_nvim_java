@@ -19,7 +19,7 @@ sudo pacman -S base-devel git make gdu bottom openssh inetutils
 
 sudo pacman -S python python-pip python-ipykernel python-pynvim
 
-sudo pacman -S zsh unzip npm cargo ripgrep lazygit neovim
+sudo pacman -S zsh unzip npm cargo ripgrep lazygit neovim neofetch
 
 sudo pacman -S docker docker-compose
 ```
